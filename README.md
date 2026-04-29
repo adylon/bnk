@@ -1,5 +1,5 @@
 # BNK
-This program is for managing you finances
+GUI interfase for managing your finances
 
 ### Features:
 - Easy to use
@@ -11,4 +11,4 @@ This program is for managing you finances
 
 ### Usage:
 - login with user and password
-- Main menu provides checking your balance, adding to youe balance, and analytics. Very small program so everything is self explanitory
+- Main menu provides
