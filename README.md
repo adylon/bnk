@@ -7,6 +7,12 @@ GUI interface for managing your finances
 - Displays balance
 - Add additional spendings
 
+### Installation:
+##### - bash:
+- git clone https://github.com/yourusername/project-name.git
+- cd project-name
+- run bnk.py
+
 ### Usage:
 - login with username and password
 - Main menu has entries to provide your spending amount and option box for type of item that was purchased, then submit when finished
