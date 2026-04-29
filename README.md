@@ -1,14 +1,15 @@
 # BNK
-GUI interfase for managing your finances
+GUI interface for managing your finances
 
 ### Features:
-- Easy to use
-- data stored in a local db file
-- analyzes you spendings
-- shows balance
+- data stored in a local database
+- analyzes your spendings
+- displays balance
 - add additional spendings
 
-
 ### Usage:
-- login with user and password
-- Main menu provides
+- login with username and password
+- Main menu has entries to provide your spending amount and option box for type of item that was purchased, then submit when finished
+- Main menu has three tabs: add new balance, check balance, and analytics
+
+##### Check Balance:
