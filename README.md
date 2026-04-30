@@ -32,5 +32,10 @@ python bnk.py
 ##### - Add New Balance:
 - Entry for updating balance
 
+<img src="bnkanb.png" width="400">
+
 ##### - Analytics:
 - This page is for querying transactions based on specific time period and type of item that was spent
+
+<img src="bnkana.png" width="400">
+
