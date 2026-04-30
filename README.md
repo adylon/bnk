@@ -15,12 +15,14 @@ python bnk.py
 ```
 
 ### Usage:
-- First, you'll be brought to the main menu. Log in with username and password:
+- First, you'll be brought to the login screen. Log in with username and password:
 
-
+<img src="bnkhm.png" width="400">
 
 - Main menu has entries to provide your spending amount and option box for type of item that was purchased, submit when finished
 - Main menu has three tabs: add new balance, check balance, and analytics
+
+
 
 ##### - Check Balance:
 - Checks for you curent balance
