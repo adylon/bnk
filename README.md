@@ -10,7 +10,7 @@ GUI interface for managing your finances
 ### Installation:
 ```bash:
 git clone https://github.com/yourusername/project-name.git
-cd project-name
+cd bnk
 python bnk.py
 ```
 
