@@ -30,7 +30,7 @@ python bnk.py
 <img src="bnkcb.png" width="400">
 
 ##### - Add New Balance:
-- Entry for new balance
+- Entry for updating balance
 
 ##### - Analytics:
 - This page is for querying transactions based on specific time period and type of item that was spent
