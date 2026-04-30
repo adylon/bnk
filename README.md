@@ -22,7 +22,7 @@ python bnk.py
 - Main menu has entries to provide your spending amount and option box for type of item that was purchased, submit when finished
 - Main menu has three tabs: add new balance, check balance, and analytics
 
-
+<img src="bnkmn.png" width="400">
 
 ##### - Check Balance:
 - Checks for you curent balance
