@@ -8,10 +8,11 @@ GUI interface for managing your finances
 - Add additional spendings
 
 ### Installation:
-##### - bash:
-- git clone https://github.com/yourusername/project-name.git
-- cd project-name
-- python bnk.py
+```bash:
+git clone https://github.com/yourusername/project-name.git
+cd project-name
+python bnk.py
+```
 
 ### Usage:
 - login with username and password
