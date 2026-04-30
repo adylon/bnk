@@ -11,7 +11,7 @@ GUI interface for managing your finances
 ##### - bash:
 - git clone https://github.com/yourusername/project-name.git
 - cd project-name
-- run bnk.py
+- python bnk.py
 
 ### Usage:
 - login with username and password
