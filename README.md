@@ -9,13 +9,13 @@ Finance tool to help save money
 
 ### Installation:
 ```bash:
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/adylon/bnk.git
 cd bnk
 python bnk.py
 ```
 
 ### Usage:
-- Once logged in 
+- First, you'll be brought to the main menu. Log in with username and password:
 
 
 
