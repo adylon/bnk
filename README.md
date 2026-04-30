@@ -27,6 +27,8 @@ python bnk.py
 ##### - Check Balance:
 - Checks for you curent balance
 
+<img src="bnkcb.png" width="400">
+
 ##### - Add New Balance:
 - Entry for new balance
 
