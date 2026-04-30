@@ -1,5 +1,5 @@
 # BNK
-Finance tool to help save money
+Finance framework tool to help save money
 
 ### Features:
 - GUI display
