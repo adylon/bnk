@@ -3,7 +3,7 @@ Finance framework tool to help save money
 
 ### Features:
 - GUI display
-- Data stored in local database
+- Data stored in local database file
 - Analytics
 - Check and update balance
 
